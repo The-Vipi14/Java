@@ -1,1 +1,4 @@
-*.class 
+HelloWord/*.class 
+loops/*.class 
+patterns/*.class 
+variables/*.class 
